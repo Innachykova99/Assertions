@@ -97,4 +97,3 @@ C:\Users\chiko\Assertions\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
 C:\Users\chiko\Assertions\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 C:\Users\chiko\Assertions\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
 C:\Users\chiko\Assertions\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
-C:\Users\chiko\Assertions\TestProject1\obj\Debug\net6.0\TestProject1.sourcelink.json

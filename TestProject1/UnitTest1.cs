@@ -1,6 +1,6 @@
 namespace TestProject1
 {
-    public class AssertionsTest
+    public class Tests
     {
         // Created tests using Classic Model
         [Test]
